@@ -1,1 +1,0 @@
-# stegor115.github.io
