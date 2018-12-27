@@ -1,0 +1,52 @@
+body {
+    background-color: #242442;
+}
+
+h1#name {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    padding-left: 220px;
+    padding-top: 120px;
+}
+
+h1#resume{
+    text-align: center;
+    padding-right: 375px;
+}
+
+h2#profilepic{
+    padding-right: 70px;
+    padding-top: 50px;
+}
+
+h3#about{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p#about{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.button{
+    background-color: #242442;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #000066;
+  }
