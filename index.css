@@ -6,8 +6,8 @@ h1#name {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 70px;
-    padding-left: 220px;
-    padding-top: 120px;
+    padding-left: 180px;
+    padding-top: 100px;
 }
 
 h1#resume{
@@ -17,22 +17,52 @@ h1#resume{
 
 h2#profilepic{
     padding-right: 70px;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
-h3#about{
+h2#schoolpic{
+    padding-right: 70px;
+}
+
+h3#general{
     color:white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
     text-decoration: underline;
-    text-align: center;
+    padding-left: 100px;
 }
 
 p#about{
     color:white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
+    padding-left: 50px
+}
+
+table#skills{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
     text-align: center;
+}
+
+td#skills{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+table#header{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    float: right;
+    text-align: center;
+    text-decoration: underline
+}
+
+td#header{
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .button{
