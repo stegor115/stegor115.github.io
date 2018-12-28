@@ -120,6 +120,13 @@ ul#experience_desc2{
     padding-left: 115px;
 }
 
+ul#experience_desc3{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding-left: 170px;
+}
+
 .button{
     background-color: #242442;
     border: 2px solid white;
